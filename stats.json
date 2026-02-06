@@ -2,16 +2,16 @@
   "real244beach": {
     "uuid": "eea3b400-98fd-3d3f-9f4e-565d176b175f",
     "kills": 1,
-    "deaths": 3,
-    "kd": 0.33,
+    "deaths": 5,
+    "kd": 0.2,
     "rank": "none",
     "kingdom": "NONE"
   },
   "SBenceAkos": {
     "uuid": "09a40577-6281-3b49-a3f3-b93b788647d8",
-    "kills": 2,
+    "kills": 3,
     "deaths": 3,
-    "kd": 0.67,
+    "kd": 1.0,
     "rank": "none",
     "kingdom": "NONE"
   }
