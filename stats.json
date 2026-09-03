@@ -18,16 +18,16 @@
   "ScWardex": {
     "uuid": "618d329e-ed1e-337b-94a2-da60a7658b6a",
     "kills": 1,
-    "deaths": 2,
-    "kd": 0.5,
+    "deaths": 3,
+    "kd": 0.33,
     "rank": "none",
     "kingdom": "NONE"
   },
   "SBenceAkos": {
     "uuid": "09a40577-6281-3b49-a3f3-b93b788647d8",
-    "kills": 8,
+    "kills": 9,
     "deaths": 12,
-    "kd": 0.67,
+    "kd": 0.75,
     "rank": "none",
     "kingdom": "NONE"
   }
