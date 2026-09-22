@@ -10,8 +10,8 @@
   "Sheriff8": {
     "uuid": "96536361-a6a0-34eb-af47-d57c8cef17ca",
     "kills": 7,
-    "deaths": 5,
-    "kd": 1.4,
+    "deaths": 6,
+    "kd": 1.17,
     "rank": "none",
     "kingdom": "NONE"
   },
@@ -26,8 +26,8 @@
   "SBenceAkos": {
     "uuid": "09a40577-6281-3b49-a3f3-b93b788647d8",
     "kills": 13,
-    "deaths": 22,
-    "kd": 0.59,
+    "deaths": 23,
+    "kd": 0.57,
     "rank": "none",
     "kingdom": "NONE"
   }
