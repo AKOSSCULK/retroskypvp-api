@@ -2,8 +2,8 @@
   "Neville": {
     "uuid": "15f5f2c4-d431-3915-8996-b7abd1f00498",
     "kills": 7,
-    "deaths": 9,
-    "kd": 0.78,
+    "deaths": 10,
+    "kd": 0.7,
     "rank": "none",
     "kingdom": "NONE"
   },
@@ -17,9 +17,9 @@
   },
   "Sheriff8": {
     "uuid": "96536361-a6a0-34eb-af47-d57c8cef17ca",
-    "kills": 16,
+    "kills": 17,
     "deaths": 14,
-    "kd": 1.14,
+    "kd": 1.21,
     "rank": "none",
     "kingdom": "NONE"
   },
