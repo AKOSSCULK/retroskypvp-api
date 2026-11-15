@@ -34,16 +34,16 @@
   "SBenceAkos": {
     "uuid": "09a40577-6281-3b49-a3f3-b93b788647d8",
     "kills": 14,
-    "deaths": 82,
+    "deaths": 83,
     "kd": 0.17,
     "rank": "none",
     "kingdom": "NONE"
   },
   "ScBence": {
     "uuid": "c5b46a21-f101-34e7-9251-2687bf4e2984",
-    "kills": 4,
+    "kills": 5,
     "deaths": 6,
-    "kd": 0.67,
+    "kd": 0.83,
     "rank": "none",
     "kingdom": "NONE"
   }
