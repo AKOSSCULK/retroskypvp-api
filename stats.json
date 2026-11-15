@@ -38,5 +38,13 @@
     "kd": 0.17,
     "rank": "none",
     "kingdom": "NONE"
+  },
+  "ScBence": {
+    "uuid": "c5b46a21-f101-34e7-9251-2687bf4e2984",
+    "kills": 0,
+    "deaths": 1,
+    "kd": 0.0,
+    "rank": "none",
+    "kingdom": "NONE"
   }
 }
